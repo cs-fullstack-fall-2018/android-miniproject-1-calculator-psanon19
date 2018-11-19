@@ -12,12 +12,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Add any code to handle the buttons
+        // Add any variables to handle the input
     }
+
+    // Add method to handler operators
+
+    // Add method(s) to handle performing the operations
 
     // Add method(s) to handle numbers
 
-    // Add method(s) to handle operators
-
-    // Add Method to perform operations
+    // Add method(s) to Handle Clear function
 }
